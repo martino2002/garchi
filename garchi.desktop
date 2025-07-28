@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=GArchi
+Comment=A simple GUI to install local packages
+Icon=garchi.png
+Exec=garchi
+Categories=System;
+MimeType=application/x-alpm-package;
+NoDisplay=true
